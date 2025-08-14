@@ -148,5 +148,5 @@ Note: For commercial use, especially by medium or large-scale enterprises, the u
 
 
 
-
+The original project is located in this link https://github.com/Open-LLM-VTuber/Open-LLM-VTuber
 
